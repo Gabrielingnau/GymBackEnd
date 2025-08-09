@@ -1,13 +1,13 @@
 
 ### Scripts
 
-|                    Script | Target                                             |
-| ------------------------- | -------------------------------------------------- |
-|                    `npm run dev` | Run API in **development** environment      |
-|                    `npm start` | Run API in **production** environment         |
-|                    `npm run migrate` | Create database tables                  |
-|                    `npm run seed` | Populate database tables                   |
+|                    Script | Objetivo                                                    |
+| ------------------------- | ------------------------------------------------------------|
+|                    `npm run dev` |Executa a API em ambiente de **desenvolvimento**      |
+|                    `npm start` | Executa a API em ambiente de **produção**              |
+|                    `npm run migrate` | Cria as tabelas no banco de dados                |
+|                    `npm run seed` | Popula as tabelas do banco de dados                 |
 
 
-### API Docs
-To view the API documentation, run the API and access [http://localhost:3333/api-docs](http://localhost:3333/api-docs) in your browser
+### Documentação da API
+Para visualizar a documentação da API, execute a API e acesse [http://localhost:3333/api-docs](http://localhost:3333/api-docs) no seu navegador.
